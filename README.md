@@ -1,7 +1,7 @@
-# 🛡️ SentinelGuard — Network & System Security Tool
+# 🛡️ KeyNet-Monitor — Network & System Security Tool
 
 ## 📘 Description
-SentinelGuard is a comprehensive security tool built with Python that combines real-time packet interception, keystroke logging, and SIEM-like reporting. It helps monitor and protect your system by capturing suspicious activity, blocking unauthorized website access, and sending regular security reports via email.
+KeyNet-Monitor is a comprehensive security tool built with Python that combines real-time packet interception, keystroke logging, and SIEM-like reporting. It helps monitor and protect your system by capturing suspicious activity, blocking unauthorized website access, and sending regular security reports via email.
 
 ## ⚡ Features
 - **Keylogger:** Logs keystrokes and sends periodic reports.
